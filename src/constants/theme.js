@@ -4,8 +4,8 @@ export const COLORS = {
     primary: '#00b894',
     primaryDark: '#008f72',
     background: '#ff9fa' ,
-    surface: '#ffffff'
-    Text: '#2f3640',
+    surface: '#ffffff',
+    text: '#2f3640',
     muted: '#7f8c8d',
     border: '#dcdde1',
     success: '#2ed573',
